@@ -19,7 +19,7 @@ h3 {
 }
 
 h4 {
-    color: #125D98;
+    color: #FFF;
     border: solid #F5A962 5px;
     width: 80%;
     margin: 10px auto;
@@ -27,7 +27,7 @@ h4 {
 }
 
 h4:hover {
-    background-color: #3C8DAD;
+    background-color: #F5A962;
     color: #FFF;
 }
 
@@ -50,6 +50,10 @@ hr {
 
 #education {
     background-color: #FFF;
+}
+
+#knowledge {
+    background-color: #3C8DAD;
 }
 
 #projects {
@@ -124,6 +128,9 @@ hr {
     margin-right: 0;
     text-align: center;
 }
+
+
+/* Knowledge Section */
 
 .skill-column {
     padding: 3%;
