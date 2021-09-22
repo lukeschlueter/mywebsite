@@ -1,0 +1,245 @@
+/* Color Palette */
+
+
+/* #F5A962 #3C8DAD #DDDDDD #125D98 */
+
+body {
+    font-family: 'Gemunu Libre', sans-serif;
+    letter-spacing: 1px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: #F5A962;
+}
+
+h3 {
+    color: #F5A962;
+}
+
+h4 {
+    color: #125D98;
+    border: solid #F5A962 5px;
+    width: 80%;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+h4:hover {
+    background-color: #3C8DAD;
+    color: #FFF;
+}
+
+hr {
+    border: solid #3c8DAD 5px;
+    border-radius: 10px;
+    border-bottom: none;
+    width: 25%;
+    margin: 30px auto;
+    background-color: #3c8DAD;
+}
+
+#name {
+    color: #DDDDDD;
+}
+
+#home {
+    background-color: #3C8DAD;
+}
+
+#education {
+    background-color: #FFF;
+}
+
+#projects {
+    background-color: #F5A962;
+}
+
+#about {
+    background-color: #FFF;
+}
+
+#site-footer {}
+
+.cover-title {
+    padding: 5% 10%;
+}
+
+.section-container {
+    width: 80%;
+    padding-top: 10%;
+}
+
+.nav-bar-background {
+    background-color: #125D98;
+}
+
+.home-title {
+    position: relative;
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.home-title h1 {
+    font-size: 9vw;
+    font-weight: 100;
+    line-height: 1;
+    margin: 0;
+    padding-top: 20%
+}
+
+.home-title h2 {
+    font-weight: 700;
+    font-size: 3vw;
+    line-height: 1.5;
+    padding-top: 5%;
+}
+
+
+/* Education Section */
+
+.education-icon {
+    border-radius: 100%;
+    width: 100px;
+    text-shadow: none;
+}
+
+.education-box {
+    margin: 50px auto;
+    width: 80%;
+    text-align: left;
+}
+
+.education-logo {
+    font-size: 1vw;
+    float: left;
+    text-align: left;
+    width: 150px;
+}
+
+.attend-date {
+    font-size: 1vw;
+    width: 100px;
+    margin-right: 0;
+    text-align: center;
+}
+
+.skill-column {
+    padding: 3%;
+    text-align: center;
+}
+
+
+/* Projects Section */
+
+.project-section-header {
+    color: #FFF;
+}
+
+.project-column {
+    padding: 3%;
+}
+
+.project-header {
+    text-align: center;
+}
+
+.btn-color {
+    background-color: #3C8DAD;
+    color: #FFF;
+    border-radius: 10%;
+    border-style: none;
+    width: 100px;
+    height: 50px;
+}
+
+.btn-color:hover {
+    color: #F5A962;
+}
+
+
+/* About Me Section */
+
+#message-section {
+    margin: 50px auto;
+}
+
+
+/* resume */
+
+.resume {
+    display: block;
+    margin: 0% auto;
+    width: 50%;
+    text-align: center;
+}
+
+.resume-background {
+    background-color: #F5A962;
+}
+
+.return-button {
+    margin: 100px auto;
+    border: solid #3C8DAD 5px;
+    text-align: center;
+    background-color: #DDDDDD;
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+}
+
+.return-button:hover {
+    background-color: #FFF;
+}
+
+.return-text {
+    color: #125D98;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.return-text:hover {
+    color: #F5A962;
+}
+
+
+/* Bottom Footer */
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+
+.footer-link:hover {
+    background-color: #F5A962;
+    border-radius: 100%;
+    width: 40px;
+}
+
+.footer-link {
+    color: #FFF;
+    display: inline;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.footer-words {
+    color: #FFF;
+    font-size: 12px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.links {
+    margin: 5px auto;
+}
+
+.social-icon {
+    width: 40px;
+}
