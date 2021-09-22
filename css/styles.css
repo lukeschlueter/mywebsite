@@ -8,14 +8,17 @@ body {
     letter-spacing: 1px;
 }
 
-h1,
-h2 {
+h1 {
     text-align: center;
     color: #F5A962;
 }
 
 h3 {
     color: #F5A962;
+}
+
+h2 {
+    margin-bottom: 300px;
 }
 
 h4 {
@@ -32,12 +35,21 @@ h4:hover {
 }
 
 hr {
-    border: solid #3c8DAD 5px;
+    border: solid #FFF 5px;
     border-radius: 10px;
     border-bottom: none;
     width: 25%;
     margin: 30px auto;
     background-color: #3c8DAD;
+}
+
+p {
+    color: #125D98;
+    font-size: 16px;
+}
+
+.not-white-hr {
+    border-color: #3C8DAD;
 }
 
 #name {
@@ -239,12 +251,12 @@ hr {
 .footer-words {
     color: #FFF;
     font-size: 12px;
-    margin: 20px 0;
+    margin: 0;
     text-align: center;
 }
 
 .links {
-    margin: 5px auto;
+    margin: 0px auto;
 }
 
 .social-icon {
