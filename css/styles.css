@@ -17,14 +17,9 @@ h3 {
     color: #F5A962;
 }
 
-h2 {
-    margin-bottom: 300px;
-}
-
 h4 {
     color: #FFF;
     border: solid #F5A962 5px;
-    width: 80%;
     margin: 10px auto;
     border-radius: 10px;
 }
@@ -106,10 +101,11 @@ p {
 }
 
 .home-title h2 {
-    font-weight: 700;
-    font-size: 3vw;
+    font-weight: 400;
+    font-size: 1.5vw;
     line-height: 1.5;
     padding-top: 5%;
+    margin-bottom: 300px;
 }
 
 
