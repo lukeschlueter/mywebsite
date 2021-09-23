@@ -93,16 +93,15 @@ p {
 }
 
 .home-title h1 {
-    font-size: 9vw;
+    font-size: 10vw;
     font-weight: 100;
-    line-height: 1;
     margin: 0;
     padding-top: 20%
 }
 
 .home-title h2 {
     font-weight: 400;
-    font-size: 1.5vw;
+    font-size: 2vw;
     line-height: 1.5;
     padding-top: 5%;
     margin-bottom: 300px;
@@ -183,8 +182,16 @@ p {
 .paragraph-section {
     font-size: 20px;
     line-height: 175%;
-    width: 60%;
+    width: 85%;
     margin: 30px auto;
+}
+
+.paragraph-link {
+    color: #3C8DAD;
+}
+
+.paragraph-link:hover {
+    color: #F5A962;
 }
 
 
