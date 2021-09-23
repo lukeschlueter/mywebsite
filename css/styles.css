@@ -180,6 +180,13 @@ p {
     margin: 50px auto;
 }
 
+.paragraph-section {
+    font-size: 20px;
+    line-height: 175%;
+    width: 60%;
+    margin: 30px auto;
+}
+
 
 /* resume */
 
